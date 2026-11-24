@@ -6,7 +6,7 @@ slug: /notes
 
 # Course Notes
 
-Course notes from Westlake Noter and community contributors.
+Course notes from Westlake Drawer and community contributors.
 
 ## Subjects
 

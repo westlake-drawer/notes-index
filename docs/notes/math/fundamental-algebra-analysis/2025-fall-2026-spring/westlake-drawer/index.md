@@ -1,21 +1,21 @@
 ---
 title: Fundamental Algebra and Analysis
 description: Parts I and II lecture notes and related course materials.
-sidebar_label: Westlake Noter
+sidebar_label: Westlake Drawer
 slug: /notes/math/fundamental-algebra-analysis
 repositoryTabs:
   - id: toc
     label: TOC
     documents:
       - id: volume-i
-        label: 2025-2026 / Westlake Noter / Volume I
-        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/volume-i.toc
+        label: 2025-2026 / Westlake Drawer / Volume I
+        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/volume-i.toc
         source:
           label: Volume I PDF
           url: https://github.com/westlake-drawer/FAA-lecture-notes-2025fall-2026spring/releases/download/pdf-update-2026-10-25/FAA-I.pdf
       - id: volume-ii
-        label: 2025-2026 / Westlake Noter / Volume II
-        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/volume-ii.toc
+        label: 2025-2026 / Westlake Drawer / Volume II
+        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/volume-ii.toc
         source:
           label: Volume II PDF
           url: https://github.com/westlake-drawer/FAA-lecture-notes-2025fall-2026spring/releases/download/pdf-update-2026-10-25/FAA-II.pdf

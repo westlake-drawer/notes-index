@@ -1,8 +1,8 @@
-# Westlake Noter
+# Westlake Drawer
 
 **[Visit the website](https://westlake-drawer.github.io/)**
 
-This repository contains the **content** for Westlake Noter: a
+This repository contains the **content** for Westlake Drawer: a
 subject-organized index of course-note repositories and research tools.
 The application, rendering system, tests, and deployment live in
 **[westlake-drawer.github.io](https://github.com/westlake-drawer/westlake-drawer.github.io)**.

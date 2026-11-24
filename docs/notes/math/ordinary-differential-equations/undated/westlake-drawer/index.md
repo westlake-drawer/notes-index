@@ -1,7 +1,7 @@
 ---
 title: Ordinary Differential Equations
 description: Ordinary differential equations notes with chapter-based LaTeX sources.
-sidebar_label: Westlake Noter
+sidebar_label: Westlake Drawer
 slug: /notes/math/ordinary-differential-equations
 ---
 

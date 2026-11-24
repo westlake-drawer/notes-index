@@ -260,10 +260,10 @@ repositoryTabs:
     documents:
       - id: volume-i
         label: Volume I
-        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/volume-i.md
+        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/volume-i.md
       - id: volume-ii
         label: Volume II
-        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/volume-ii.md
+        file: content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/volume-ii.md
 ```
 
 Use one example or the other, not two separate `repositoryTabs` keys.

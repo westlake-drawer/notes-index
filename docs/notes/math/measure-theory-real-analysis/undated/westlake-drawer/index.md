@@ -1,7 +1,7 @@
 ---
 title: Measure Theory and Real Analysis
 description: Measure theory and real analysis notes with chapter-based LaTeX sources.
-sidebar_label: Westlake Noter
+sidebar_label: Westlake Drawer
 slug: /notes/math/measure-theory-real-analysis
 ---
 

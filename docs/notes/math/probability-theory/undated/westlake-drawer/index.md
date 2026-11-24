@@ -1,7 +1,7 @@
 ---
 title: Probability Theory
 description: Probability theory notes with chapter-based LaTeX sources.
-sidebar_label: Westlake Noter
+sidebar_label: Westlake Drawer
 slug: /notes/math/probability-theory
 ---
 

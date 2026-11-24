@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for helping maintain the Westlake Noter website.
+Thank you for helping maintain the Westlake Drawer website.
 Contributions here can improve the course index, fix links, and add tools.
 Application, theme, synchronization, tests, and deployment changes belong in
 [westlake-drawer.github.io](https://github.com/westlake-drawer/westlake-drawer.github.io).
@@ -400,7 +400,7 @@ content/repository-tabs/
   math/
     fundamental-algebra-analysis/
       2025-fall-2026-spring/
-        westlake-noter/
+        westlake-drawer/
           volume-i.md
           volume-ii.md
   physics/
@@ -419,7 +419,7 @@ Use the course's teaching term, not the upload date or PDF release version.
 Use lowercase slugs such as `2025-fall` or `2025-fall-2026-spring`; use `undated`
 when the teaching term is unknown rather than inventing a year.
 The note-set slug identifies the author, organization, or source repository,
-for example `jietexue` or `westlake-noter`. If one author maintains multiple
+for example `jietexue` or `westlake-drawer`. If one author maintains multiple
 independent sets in the same term, give them distinct descriptive slugs,
 such as `jietexue-lecture-notes` and `jietexue-study-guide`.
 PDF release updates replace files within the same note set; a new teaching
@@ -665,10 +665,10 @@ changes its heading anchors; update existing links when migrating.
 This grouping also works for custom tabs other than TOC.
 
 Working example:
-[Fundamental Algebra and Analysis](docs/notes/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/index.md)
+[Fundamental Algebra and Analysis](docs/notes/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/index.md)
 declares one **TOC** tab with separate
-[Volume I](content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/volume-i.md) and
-[Volume II](content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-noter/volume-ii.md)
+[Volume I](content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/volume-i.md) and
+[Volume II](content/repository-tabs/math/fundamental-algebra-analysis/2025-fall-2026-spring/westlake-drawer/volume-ii.md)
 Markdown documents. Overview keeps the course introduction.
 
 ### Multiple Years and Note Sets
