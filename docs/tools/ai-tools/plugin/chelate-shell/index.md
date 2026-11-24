@@ -7,7 +7,7 @@ slug: /tools/chelate-shell
 
 # Chelate Shell
 
-<div className="repo-meta"><span>Tool</span><span>Python</span><span>v1.1.2</span><span>Agent Orchestrator</span><span>14 Skills</span><span>MIT</span></div>
+<div className="repo-meta"><span>Tool</span><span>Python</span><span>v1.4.0</span><span>Agent Orchestrator</span><span>14 Skills</span><span>MIT</span></div>
 
 [**chelate-shell**](https://github.com/JiamingShi-JsPhys/chelate-shell) is a local, deterministic agent-skill orchestrator built by **Jiaming Shi** for scientific research and engineering workflows. 
 
