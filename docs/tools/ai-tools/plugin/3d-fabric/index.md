@@ -1,0 +1,14 @@
+---
+title: 3D Fabric
+description: A print-quality gate for 3D modelling and manufacturing workflows, with 30 Blender skills included.
+sidebar_label: 3D Fabric
+slug: /tools/3d-fabric
+---
+
+# 3D Fabric
+
+<div className="repo-meta"><span>Plugin</span><span>Python</span><span>v1.1.3</span><span>3D Printing</span><span>MIT</span></div>
+
+[**3d-fabric**](https://github.com/JiamingShi-JsPhys/3d-fabric) is a print-quality gate for 3D modelling and manufacturing workflows. Every path a mesh takes — a request written in natural language and built through the local SolidCraft CLI, a design someone sent you, an STL from a scanner, a mesh out of Blender — ends at the same gate: watertightness, winding, non-manifold edges, and each closed shell checked on its own, so an inside-out part cannot hide behind a correct one.
+
+Seven CAD actions write the same gate record and use the same exit codes. Thirty Blender skills cover the 3D work that never has a dimensioned part. Agent hosts get a typed gate for every action, `--json` output byte-identical to the file on disk, and an explicit `UNVERIFIED` when SolidCraft is missing instead of a silent pass.
