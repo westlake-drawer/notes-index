@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}Quantization}{1}{section.1}%
+\contentsline {section}{\numberline {2}Heisenberg's Breakthrough}{1}{section.2}%
+\contentsline {section}{\numberline {3} De Broglie's \& Schrödinger's Equation}{2}{section.3}%
+\contentsline {section}{\numberline {4}Dirac's Notation}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Bra \& Ket}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Operator}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Commutator and Anticommutator}{5}{section.5}%
+\contentsline {section}{\numberline {6}Compatible Observables}{5}{section.6}%
+\contentsline {section}{\numberline {7}Uncertainty Relation}{6}{section.7}%
+\contentsline {section}{\numberline {8}Position and Momentum}{6}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Position \& Wave Function}{7}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Translation}{7}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Momentum}{8}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Momentum Operator in the Position Basis}{8}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Momentum-Space Wave Function}{8}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Dirac's Corresponding Rule}{9}{subsection.8.6}%
+\contentsline {section}{\numberline {9}Schrödinger Equation}{9}{section.9}%
+\contentsline {section}{\numberline {10}Probability Density and Probability Current}{11}{section.10}%
+\contentsline {section}{\numberline {11}Exponential Operators and Baker-Hausdorff Lemma }{12}{section.11}%
+\contentsline {section}{\numberline {12}Harmonic Oscillator}{13}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Method of Analysis (Hermite polynomials)}{14}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Method of Algebra}{15}{subsection.12.2}%
+\contentsline {subsection}{\numberline {12.3}Further Discussion of 1D Case: Coherent State}{16}{subsection.12.3}%
+\contentsline {subsection}{\numberline {12.4}High Dimensional Case}{17}{subsection.12.4}%
+\contentsline {section}{\numberline {13}Gauge Transformations in Electromagnetism}{17}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Gauge Transformations}{17}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Landau Levels and Quantum Hall Effect}{19}{subsection.13.2}%
+\contentsline {subsubsection}{\numberline {13.2.1}Landau Gauge}{19}{subsubsection.13.2.1}%
+\contentsline {subsubsection}{\numberline {13.2.2}Symmetrical Gauge}{20}{subsubsection.13.2.2}%
+\contentsline {section}{\numberline {14}Angular Momentum}{21}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Infinitesimal Rotations in Quantum Mechanics}{21}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Orbital Angular Momentum}{22}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}Eigen Value}{23}{subsection.14.3}%
+\contentsline {subsection}{\numberline {14.4}Representations of the Rotation Operator}{25}{subsection.14.4}%
+\contentsline {subsection}{\numberline {14.5}Spherical Harmonics}{27}{subsection.14.5}%
+\contentsline {subsection}{\numberline {14.6}Schwinger’s Oscillator Model of Angular Momentum}{28}{subsection.14.6}%
+\contentsline {subsection}{\numberline {14.7}Addition of Angular Momenta}{28}{subsection.14.7}%
+\contentsline {subsubsection}{\numberline {14.7.1}Clebsch-Gordan Coefficients}{29}{subsubsection.14.7.1}%
+\contentsline {section}{\numberline {15}Discrete Symmetry}{29}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Wigner Theorem}{29}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Parity Transformation}{30}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}Time-Reversal Symmetry}{32}{subsection.15.3}%
+\contentsline {section}{\numberline {16}Approximation Methods}{32}{section.16}%
+\contentsline {subsection}{\numberline {16.1}{\small Time-independent Perturbation Theory}: {\small Non-degenerate Case}}{32}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}{\small Time-independent Perturbation Theory: Degenerate Case}}{34}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}Time-dependent Potentials: The Interact Picture}{36}{subsection.16.3}%
+\contentsline {subsection}{\numberline {16.4}Landau-Zener Model}{38}{subsection.16.4}%
+\contentsline {subsection}{\numberline {16.5}Adiabatic Evolution and Berry Phase}{40}{subsection.16.5}%
+\contentsline {section}{\numberline {17}Path Integral}{42}{section.17}%
+\contentsline {subsection}{\numberline {17.1}Propagators}{42}{subsection.17.1}%
+\contentsline {subsection}{\numberline {17.2}Propagator as a Transition Amplitude}{43}{subsection.17.2}%
+\contentsline {subsection}{\numberline {17.3}Feynman’s Formulation}{43}{subsection.17.3}%
+\contentsline {section}{\numberline {18}Scattering Theory}{44}{section.18}%
+\contentsline {subsection}{\numberline {18.1}Stationary Scattering Theory (partial wave method)}{45}{subsection.18.1}%

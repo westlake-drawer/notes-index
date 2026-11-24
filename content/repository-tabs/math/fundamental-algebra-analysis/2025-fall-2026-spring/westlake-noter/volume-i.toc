@@ -1,0 +1,99 @@
+\contentsline {chapter}{\numberline {1}Basic Logic}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Statement}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Negation}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Conjunction and Disjunction}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Conditional statements}{2}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Biconditional statement}{3}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Proof by Contradiction}{3}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Exercises}{4}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Set Theory}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Roster Notation}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Set-builder Notation}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Subsets and Set Difference}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Quantifiers}{11}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Sufficient and Necessary Condition}{11}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Union}{12}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Intersection}{13}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Cartesian Product}{16}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Correspondence}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Correspondence and its Inverse}{19}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Illustration of a Correspondence}{20}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Image and Preimage}{20}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Composition}{22}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Surjectivity}{23}{section.3.5}%
+\contentsline {section}{\numberline {3.6}injectivity}{24}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Mapping}{26}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Bijection}{28}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Direct product}{29}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Restriction and Extension}{32}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Binary Relations }{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Generalities}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Equivalent Relation}{33}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Partial Order}{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Monotonic Functions}{35}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Bounds}{37}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Intervals}{39}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Well-ordered Set}{41}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Order-completeness}{42}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Recursive Construction}{45}{section.4.9}%
+\contentsline {chapter}{\numberline {5}Groups}{53}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Composition Law}{53}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Neutral Element \& Invertible Element}{54}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Substructure}{57}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Homomorphism}{59}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Quotient}{62}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Universal Homomorphisms}{68}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Rings and Modules}{75}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Unitary Rings}{75}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Action of Monoids}{77}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Vector Space}{78}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Submodules}{80}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Universal Property}{82}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Matrices}{84}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Linear Equations}{86}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Quotient Modules}{91}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Quotient Ring}{93}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Free Modules}{96}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Algebra}{101}{section.6.11}%
+\contentsline {chapter}{\numberline {7}Limit}{107}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Filters}{107}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Order Limit}{110}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Partially Ordered Groups}{117}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Enhancement}{119}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Absolute Values}{128}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Ordered Rings}{131}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Topology}{135}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Topological spaces}{135}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Convergence}{140}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Continuity}{144}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Initial Topology}{146}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Uniform Continuity}{147}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Closed Subsets}{155}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Completeness}{161}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Compactness}{169}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Compact Metric Spaces}{175}{section.8.9}%
+\contentsline {section}{\numberline {8.10}Path Connectedness}{179}{section.8.10}%
+\contentsline {chapter}{\numberline {9}Differential Calculus}{181}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Landau symbol}{181}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Differentiability}{184}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Multilineal Mappings}{188}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Convexity}{194}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Mean Value Theorems}{197}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Higher Differential}{202}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Taylor's Formula}{207}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Banach Space}{209}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Local inversion}{213}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Uniform Convergence}{222}{section.9.10}%
+\contentsline {section}{\numberline {9.11}Power Series}{228}{section.9.11}%
+\contentsline {section}{\numberline {9.12}Directional Differential}{233}{section.9.12}%
+\contentsline {chapter}{\numberline {10}Integral Calculus}{237}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Differential 1-form}{237}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Primitive Functions}{239}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Riesz Space}{240}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Convexity$^*$}{250}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Semirings}{255}{section.10.5}%
+\contentsline {section}{\numberline {10.6}$\sigma $-additive Functions}{258}{section.10.6}%
+\contentsline {section}{\numberline {10.7}Measurable Space}{263}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Monotone Class Theorem}{268}{section.10.8}%
+\contentsline {section}{\numberline {10.9}Measure Space}{272}{section.10.9}%
+\contentsline {section}{\numberline {10.10}Product Measure}{278}{section.10.10}%
