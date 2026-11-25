@@ -18,8 +18,9 @@ slug: /legal/disclaimer
 **无担保。** 内容按"现状"提供，不附带任何明示或默示担保，包括准确性、完整性、时效性、
 适用性与不侵权的担保。
 
-**责任限制。** 在法律允许的范围内，维护者与贡献者不对因使用本站或其链接内容产生的
-间接、附带、后果性损失负责，包括学业、经济与数据损失。
+**责任限制。** 在适用法律允许的范围内，本站不对因第三方内容本身的错误、第三方服务中断，
+或因用户未遵守[安全须知](/legal/security)而产生的损失承担责任，也不对间接、附带、
+后果性损失负责。本条不排除或限制任何依法不得排除或限制的责任。
 
 **不可排除的责任。** 本条不排除依法不得排除的责任，包括：因故意或重大过失造成的
 财产损失、造成人身损害的责任，以及法律强制规定的其他责任。
@@ -40,9 +41,11 @@ not an endorsement.
 **No warranty.** Content is provided "as is", without warranties of any kind,
 including accuracy, completeness, currency, fitness, and non-infringement.
 
-**Limitation of liability.** To the extent permitted by law, maintainers and
-contributors are not liable for indirect, incidental, or consequential loss arising
-from use of the site or linked content, including academic, financial, and data loss.
+**Limitation of liability.** To the extent permitted by applicable law, the site is not
+liable for loss arising from errors in third-party content itself, from interruption of
+third-party services, or from a user ignoring the [security guidance](/legal/security);
+nor for indirect, incidental, or consequential loss. Nothing in this clause excludes or
+limits liability that cannot lawfully be excluded or limited.
 
 **Liability that cannot be excluded.** Nothing here excludes liability that the law
 does not allow to be excluded — including loss caused intentionally or by gross

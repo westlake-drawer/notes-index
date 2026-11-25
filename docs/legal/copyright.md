@@ -18,6 +18,9 @@ slug: /legal/copyright
 **授权范围。** 除仓库 `LICENSE` 另有规定外，组织获得的许可限于：在站点展示、索引、
 复制缓存、格式转换（如生成预览与目录）与分发链接；**不包括**商业使用与再许可。
 
+**混合作品。** 一份笔记常常同时包含学生原创内容与第三方材料。对于包含第三方受保护内容的作品，
+贡献者仅能就其依法享有权利的部分作出授权；第三方内容的使用仍受原权利人许可与法律约束。
+
 **教师材料。** 以下内容不得上传，除非已获书面许可：教师 PPT 与讲义原文、习题与标准答案、
 教师原创插图图表、教材扫描件或电子书章节、课程视频与录音、课程网站上的受保护材料。
 《著作权法》的合理使用有严格条件：**注明来源不等于获得授权，教学用途也不等于可以转载。**
@@ -52,6 +55,11 @@ non-exclusive licence needed to display and index them under the
 **Scope of the licence.** Unless a repository's `LICENSE` says otherwise, the licence
 covers display, indexing, caching, format conversion (previews, tables of contents),
 and linking on the site. It does **not** cover commercial use or sublicensing.
+
+**Mixed works.** A note often mixes the student's own work with third-party material. For a
+work containing third-party protected content, a contributor may license only the part
+they hold rights in; use of the third-party content remains subject to its owner's
+licence and to law.
 
 **Instructor material.** Do not upload, without written permission: instructor slides
 or handouts, problem sets and solutions, instructor-made figures, textbook scans or

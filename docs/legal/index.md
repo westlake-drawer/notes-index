@@ -27,8 +27,10 @@ Westlake Drawer 是由学生以个人身份维护的课程笔记与工具索引�
 | [安全政策](/legal/security) | 运行工具的风险、漏洞披露、事故响应 |
 | [责任分配](/legal/responsibility) | 贡献者、维护者、工具作者、读者的分工 |
 
-文件的效力顺序：仓库自带的 `LICENSE` / `SECURITY.md` / `NOTICE` > 本页各专项文件 > 概述页。
-若某条与法律强制性规定冲突，以法律为准。
+各仓库的 `LICENSE`、`SECURITY.md` 与 `NOTICE` 分别适用于其规定的事项：`LICENSE` 规定授权条件，
+`SECURITY.md` 规定漏洞报告与处理流程，`NOTICE` 载明第三方版权与许可信息。它们与本页的专项
+文件在同一事项上冲突时，按各自适用范围与法律效力分别解释，且不构成对任何法定义务的排除。
+若与强制性法律规定冲突，以法律为准。
 
 ## English
 
@@ -52,8 +54,11 @@ project's rule set.
 | [Security](/legal/security) | Risk of running tools, disclosure, incident response |
 | [Responsibility](/legal/responsibility) | Who is answerable for what |
 
-Precedence: a repository's own `LICENSE` / `SECURITY.md` / `NOTICE` first, then the
-specific document, then this overview. Mandatory law overrides all of them.
+A repository's `LICENSE`, `SECURITY.md`, and `NOTICE` each govern what they cover: licence
+conditions, vulnerability reporting, and third-party copyright notices respectively. Where
+they conflict with a document here on the same subject, each is interpreted by its own
+scope and legal effect; none of them excludes a legal obligation. Mandatory law overrides
+all of them.
 
 ## 说明 · Note
 

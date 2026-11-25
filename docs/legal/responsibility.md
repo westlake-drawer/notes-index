@@ -16,9 +16,13 @@ slug: /legal/responsibility
 | **工具作者** | 工具行为、许可、安全披露 | 笔记、索引、其他工具 |
 | **读者** | 自行核实、遵守许可与校规、保护自己的凭据 | 任何维护义务 |
 
-**内部与外部责任不同。** 上表是组织内部的分工，不能对抗法律规定的外部责任。
+**内部与外部责任不同。** 本页只描述组织内部的职责分工，不改变适用法律对各主体规定的义务，
+也不影响第三方依法主张权利。上表不能对抗法律规定的外部责任。
 若发生侵权，权利人可直接向实际行为人主张权利；组织是否承担责任，取决于具体行为、
 过错与法律规定，而不是本页的表述。
+
+**知情与放任。** 维护者若明知特定内容侵权仍继续推广或放任，不能以"不逐条审核"为由
+主张免除相应责任。
 
 **共同行为。** 多人共同实施侵权时，按各自过错与参与程度承担责任。
 
@@ -38,10 +42,15 @@ slug: /legal/responsibility
 | **Tool authors** | Their tool's behaviour, licence, and disclosures | Notes, the index, other tools |
 | **Readers** | Verifying content, respecting licences and university rules, protecting their credentials | Any maintenance obligation |
 
-**Internal vs external responsibility.** The table divides work inside the project; it
-cannot override liability imposed by law. A rights holder may pursue the person who
+**Internal vs external responsibility.** This page describes internal duties only. It does
+not alter obligations imposed by applicable law and does not affect a third party's
+ability to assert rights. The table cannot override liability imposed by law. A rights holder may pursue the person who
 acted, and whether the organization is liable depends on the conduct, fault, and law —
 not on this page.
+
+**Knowledge and tolerance.** A maintainer who knows that specific content infringes and
+continues to promote or tolerate it cannot rely on a "we do not review every note"
+clause to escape liability.
 
 **Joint conduct.** Where several people infringe jointly, each is liable according to
 fault and participation.
