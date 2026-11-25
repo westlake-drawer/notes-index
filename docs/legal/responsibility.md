@@ -1,6 +1,6 @@
 ---
 title: Responsibility · 责任分配
-description: Who is answerable for the index, the notes, and the tools.
+description: 内部责任分工，以及它与法律外部责任的关系。
 sidebar_label: Responsibility · 责任分配
 slug: /legal/responsibility
 ---
@@ -11,32 +11,46 @@ slug: /legal/responsibility
 
 | 角色 | 负责 | 不负责 |
 | :--- | :--- | :--- |
-| **贡献者** | 自己写的内容是否准确、提交的内容是否有权使用、自己仓库的许可是否属实 | 他人的仓库、本站基础设施 |
-| **本组织维护者** | 索引可用、在有效请求下移除内容、公示本页说明 | 逐条核对笔记、逐个审计工具 |
-| **工具作者** | 其工具的行为、许可与安全披露 | 笔记、索引、其他工具 |
-| **读者（你）** | 如何使用材料：自行核对、遵守许可、遵守课程与学校规定 | 任何维护义务 |
+| **贡献者** | 内容准确、有权提交、许可声明真实、遵守学术诚信 | 他人仓库、站点基础设施 |
+| **维护者** | 索引可用、处理有效通知、公示规则、账号安全 | 逐条核对笔记、审计每个工具 |
+| **工具作者** | 工具行为、许可、安全披露 | 笔记、索引、其他工具 |
+| **读者** | 自行核实、遵守许可与校规、保护自己的凭据 | 任何维护义务 |
 
-**学术诚信。** 笔记是学习辅助材料。能否用于课程作业，由课程与学校规定，
-不由本站决定。
+**内部与外部责任不同。** 上表是组织内部的分工，不能对抗法律规定的外部责任。
+若发生侵权，权利人可直接向实际行为人主张权利；组织是否承担责任，取决于具体行为、
+过错与法律规定，而不是本页的表述。
 
-**以个人身份贡献。** 贡献者以个人身份参与。被列出不代表西湖大学、某位教师或某个实验室。
+**共同行为。** 多人共同实施侵权时，按各自过错与参与程度承担责任。
 
-**变更。** 本页内容可能更新，当前版本始终在 [/legal](/legal)。继续使用本站即适用当时版本。
+**越权行为。** 维护者超越授权作出的行为，由行为人个人承担责任，组织可依章程追责。
+
+**追偿。** 组织因成员或贡献者的行为对外承担赔偿责任后，可向有过错的一方追偿。
+
+**证据保全。** 涉及争议时，保存相关提交记录、通知与决定；保存期限见
+[隐私政策](/legal/privacy)。
 
 ## English
 
 | Party | Responsible for | Not responsible for |
 | :--- | :--- | :--- |
-| **Contributors** | The accuracy of what they wrote, the rights to what they submit, and keeping their own repository's licence accurate | Other people's repositories or the site's infrastructure |
-| **Maintainers of this organization** | Keeping the index working, removing content on valid request, publishing these notices | Verifying every note or auditing every tool |
-| **Authors of tools** | Their tool's behaviour, its licence, and its security disclosures | The notes, the index, or other tools |
-| **You, the reader** | How you use the material: checking it, respecting licences, following your course's and university's rules | Nothing here is maintenance work you owe |
+| **Contributors** | Accurate content, the right to submit it, truthful licence claims, academic integrity | Other repositories, site infrastructure |
+| **Maintainers** | A working index, acting on valid notices, publishing these rules, account security | Verifying every note, auditing every tool |
+| **Tool authors** | Their tool's behaviour, licence, and disclosures | Notes, the index, other tools |
+| **Readers** | Verifying content, respecting licences and university rules, protecting their credentials | Any maintenance obligation |
 
-**Academic integrity.** Notes are study aids. How you may use them in coursework
-is decided by your course and your university, not by this site.
+**Internal vs external responsibility.** The table divides work inside the project; it
+cannot override liability imposed by law. A rights holder may pursue the person who
+acted, and whether the organization is liable depends on the conduct, fault, and law —
+not on this page.
 
-**Contributions are individual.** People contribute in a personal capacity. A
-listing does not represent Westlake University, an instructor, or a lab.
+**Joint conduct.** Where several people infringe jointly, each is liable according to
+fault and participation.
 
-**Changes.** These notices may change; the current version is always at
-[/legal](/legal). Continuing to use the site means the version in effect applies.
+**Ultra vires acts.** A maintainer acting beyond their authority is personally liable;
+the organization may seek recourse under the governance rules.
+
+**Recourse.** If the organization pays for a member's or contributor's conduct, it may
+recover from the party at fault.
+
+**Evidence.** For disputes, keep the relevant commits, notices, and decisions;
+retention follows the [privacy policy](/legal/privacy).

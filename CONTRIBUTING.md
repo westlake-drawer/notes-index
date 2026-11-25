@@ -14,6 +14,15 @@ directory segments, frontmatter fields, category metadata, tab schemas,
 URL parameters, rendering boundaries, and common errors. This guide explains
 the contribution workflow; the reference explains what each setting means.
 
+## Rights, licensing, and academic integrity
+
+Before submitting, read [Rights, licensing, and academic integrity](CONTRIBUTING_RIGHTS.md)
+and the site's legal pages: [contributor licence](https://westlake-drawer.github.io/legal/cla),
+[academic integrity](https://westlake-drawer.github.io/legal/academic-integrity), and
+[takedown](https://westlake-drawer.github.io/legal/takedown). Submission accepts the
+contributor licence: you keep the copyright and grant the non-exclusive licence the
+index needs. Never submit instructor material, exam answers, or confidential research.
+
 ## Scope
 
 - Put course descriptions, repository links, and reading instructions in the

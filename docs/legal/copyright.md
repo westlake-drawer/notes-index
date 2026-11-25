@@ -1,6 +1,6 @@
 ---
 title: Copyright and licensing · 版权与许可
-description: Who owns the notes, how the index is licensed, and how to report a problem.
+description: 笔记归属、教师材料边界、第三方许可与报告渠道。
 sidebar_label: Copyright · 版权与许可
 slug: /legal/copyright
 ---
@@ -10,48 +10,69 @@ slug: /legal/copyright
 ## 中文
 
 **笔记版权归作者。** 讲义、习题、图表与编译好的 PDF，版权属于撰写它们的学生；
-若内容改编自课程材料，相关权利仍归教师或原始权利人。每个仓库在各自的 `LICENSE`
-里声明许可——多数是 MIT，也有不是的。二次使用前请先读源仓库的 `LICENSE`。
+内容若改编自课程材料，相关权利仍归教师或原始权利人。作者离开组织后仍保留版权。
 
-**索引与笔记是两回事。** 本站的文字、导航与版式存放在
-[notes-index](https://github.com/westlake-drawer/notes-index)，以 MIT 许可发布。
-该许可只覆盖索引，不覆盖它所链接的笔记。
+**共同创作。** 多人共同完成的笔记，默认按贡献共有；合并前应在仓库内标明贡献者。
+组织仅按[贡献者许可](/legal/cla)获得展示与索引所需的非独占许可，不取得所有权。
 
-**课程材料。** 若某份笔记转载了课件、插图或原文，相关权利仍归其所有者。
-贡献者应链接官方来源而不是复制，并在被要求时移除。
+**授权范围。** 除仓库 `LICENSE` 另有规定外，组织获得的许可限于：在站点展示、索引、
+复制缓存、格式转换（如生成预览与目录）与分发链接；**不包括**商业使用与再许可。
 
-**报告问题。** 若内容侵犯你的权利、涉及隐私或不应公开，请在
-[community](https://github.com/westlake-drawer/community) 提 issue，或通过组织联系维护者，
-并附上链接与问题说明。审核期间我们会先移除或限制该条目。
-不要在公开 issue 中写入个人或机密信息。
+**教师材料。** 以下内容不得上传，除非已获书面许可：教师 PPT 与讲义原文、习题与标准答案、
+教师原创插图图表、教材扫描件或电子书章节、课程视频与录音、课程网站上的受保护材料。
+《著作权法》的合理使用有严格条件：**注明来源不等于获得授权，教学用途也不等于可以转载。**
 
-**下架。** 权利人提出要求、内容涉及隐私或法律要求时，维护者可随时移除或下架
-任何页面或链接，无需事先通知。
+**第三方许可。** 每个仓库声明自己的许可。MIT、Apache-2.0、GPL 系列、CC BY、CC BY-NC
+的权利义务不同；引入第三方代码须保留其版权声明与 NOTICE，并确认许可兼容。
+字体、图片、数据集与代码应分别确认授权。
+
+**地图与图片。** 校园图使用 terraink.app 导出与 OpenStreetMap 数据，按 ODbL 要求署名
+`© OpenStreetMap contributors`。
+
+**数据库与数据集。** 课程名单、成绩、科研数据不属于可公开材料；数据集的使用须符合
+其来源机构的规定。
+
+**保密材料。** 未发表的科研成果、课题组内部资料、实验记录与受限项目材料不得上传。
+
+**报告与下架。** 见[侵权通知与反通知](/legal/takedown)。维护者可在收到有效通知后
+先行移除，并在审核期间限制访问。
 
 ## English
 
-**Notes belong to their authors.** Lecture notes, problem sets, figures, and
-compiled PDFs are the copyright of the students who wrote them and, where
-applicable, of the instructors whose material they follow. Each repository states
-its own licence — many are MIT, some are not. Read the `LICENSE` file in the
-source repository before reusing anything.
+**Notes belong to their authors.** Lecture notes, problem sets, figures, and compiled
+PDFs are the copyright of the students who wrote them and, where applicable, of the
+instructors whose material they follow. Authors keep their copyright after leaving
+the organization.
 
-**This index is separate.** The site's own text, navigation, and layout live in
-[notes-index](https://github.com/westlake-drawer/notes-index) and are released
-under the MIT License. That licence covers the index, not the notes it links to.
+**Joint work.** Co-authored notes are shared among contributors by default; list the
+contributors in the repository before merging. The organization receives only the
+non-exclusive licence needed to display and index them under the
+[contributor licence](/legal/cla); it takes no ownership.
 
-**Instructor material.** If a note reproduces slides, figures, or text from a
-course, the rights in that material stay with their owner. Contributors should
-link to official sources rather than copy them, and should remove material on
-request.
+**Scope of the licence.** Unless a repository's `LICENSE` says otherwise, the licence
+covers display, indexing, caching, format conversion (previews, tables of contents),
+and linking on the site. It does **not** cover commercial use or sublicensing.
 
-**Reporting a problem.** If content infringes your rights, is private, or should
-not be public, open an issue in
-[community](https://github.com/westlake-drawer/community) or contact a
-maintainer through the organization. Include the URL and what is wrong. We will
-remove or restrict the item while the report is reviewed. Do not open a public
-issue that contains personal or confidential information.
+**Instructor material.** Do not upload, without written permission: instructor slides
+or handouts, problem sets and solutions, instructor-made figures, textbook scans or
+book chapters, lecture recordings, or protected material from a course website.
+Fair use under Chinese copyright law has strict conditions: **citing a source is not
+a licence, and an educational purpose does not authorise copying.**
 
-**Takedown.** Maintainers may remove or unlist any page or link at any time,
-without notice, when a rights holder asks, when content is private, or when the
-law requires it.
+**Third-party licences.** Each repository states its own licence. MIT, Apache-2.0, the
+GPL family, CC BY, and CC BY-NC carry different obligations; keep third-party
+copyright notices and `NOTICE` files, and check compatibility. Fonts, images,
+datasets, and code should each be cleared separately.
+
+**Maps and images.** Campus maps are terraink.app exports built on OpenStreetMap data
+and are attributed `© OpenStreetMap contributors` as ODbL requires.
+
+**Databases and datasets.** Class lists, grades, and research data are not publishable
+material; datasets must follow their source institution's rules.
+
+**Confidential material.** Unpublished research, group-internal documents, lab
+records, and restricted project material must not be uploaded.
+
+**Reporting and takedown.** See [Notice and counter-notice](/legal/takedown).
+Maintainers may remove content on a valid notice and restrict access while a report
+is reviewed.
