@@ -1,13 +1,14 @@
 ---
 title: Terms of Use · 用户使用条款
 description: 服务内容、使用限制、责任边界、适用法律与争议解决。
-sidebar_label: Terms · 使用条款
+sidebar_label: Terms of Use
 slug: /legal/terms
 ---
 
-# 用户使用条款 · Terms of Use
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 访问或使用本站，即表示你接受本条款。若不接受，请停止使用。
 
@@ -40,7 +41,8 @@ slug: /legal/terms
 
 **条款变更。** 变更后在本页公布并标注日期；继续使用即视为接受新版本。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 By accessing or using this site you accept these terms. If you do not, stop using it.
 
@@ -76,3 +78,6 @@ they go to the competent people's court where the maintainers are located.
 
 **Changes to these terms.** Updates are published here with a date; continued use
 accepts the new version.
+
+</TabItem>
+</Tabs>

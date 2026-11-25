@@ -1,13 +1,14 @@
 ---
 title: Contributor Licence · 贡献者许可协议
 description: 投稿时你授予组织什么、你保证什么、如何撤回。
-sidebar_label: Contributor Licence · 贡献者许可
+sidebar_label: Contributor Licence
 slug: /legal/cla
 ---
 
-# 贡献者许可协议 · Contributor Licence
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 向本组织的任何仓库提交 Pull Request、Issue 中的内容或直接推送，即表示你同意本协议。
 
@@ -31,7 +32,8 @@ slug: /legal/cla
 
 **6. 与其他协议的关系。** 若仓库另有 `CONTRIBUTING` 或单独的 CLA，以更具体的文件为准。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 Submitting a pull request, issue content, or a direct push to any repository of this
 organization means you agree to this licence.
@@ -58,3 +60,6 @@ granted to others, and archival records are unaffected. Use the
 
 **6. Other agreements.** If a repository has its own `CONTRIBUTING` or CLA, that more
 specific document prevails.
+
+</TabItem>
+</Tabs>

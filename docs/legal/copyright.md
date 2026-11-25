@@ -1,13 +1,14 @@
 ---
 title: Copyright and licensing · 版权与许可
 description: 笔记归属、教师材料边界、第三方许可与报告渠道。
-sidebar_label: Copyright · 版权与许可
+sidebar_label: Copyright
 slug: /legal/copyright
 ---
 
-# 版权与许可 · Copyright and licensing
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **笔记版权归作者。** 讲义、习题、图表与编译好的 PDF，版权属于撰写它们的学生；
 内容若改编自课程材料，相关权利仍归教师或原始权利人。作者离开组织后仍保留版权。
@@ -40,7 +41,8 @@ slug: /legal/copyright
 **报告与下架。** 见[侵权通知与反通知](/legal/takedown)。维护者可在收到有效通知后
 先行移除，并在审核期间限制访问。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **Notes belong to their authors.** Lecture notes, problem sets, figures, and compiled
 PDFs are the copyright of the students who wrote them and, where applicable, of the
@@ -84,3 +86,6 @@ records, and restricted project material must not be uploaded.
 **Reporting and takedown.** See [Notice and counter-notice](/legal/takedown).
 Maintainers may remove content on a valid notice and restrict access while a report
 is reviewed.
+
+</TabItem>
+</Tabs>

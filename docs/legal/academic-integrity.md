@@ -1,13 +1,14 @@
 ---
 title: Academic Integrity · 学术诚信
 description: 笔记可以怎么用、什么不能上传、违规如何处理。
-sidebar_label: Academic Integrity · 学术诚信
+sidebar_label: Academic Integrity
 slug: /legal/academic-integrity
 ---
 
-# 学术诚信 · Academic Integrity
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **笔记是学习辅助材料。** 它们帮助你理解课程，不是提交作业的素材。能否在课程作业中使用，
 由课程与学校规定，不由本站决定。
@@ -28,7 +29,8 @@ AI 生成不改变版权与准确性责任：内容仍须由提交者核实，�
 **违规处理。** 视情节采取：移除内容、要求更正、限制贡献权限、移出组织。
 严重或重复违规的，维护者可公开说明处理结果（不披露个人信息）。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **Notes are study aids**, not material to submit as your own work. Whether you may use
 them in coursework is decided by your course and university, not by this site.
@@ -56,3 +58,6 @@ obtain guardian consent.
 **Enforcement.** Depending on severity: content removal, a correction request,
 restricted contribution rights, or removal from the organization. For serious or
 repeated violations, maintainers may publish the outcome without personal data.
+
+</TabItem>
+</Tabs>

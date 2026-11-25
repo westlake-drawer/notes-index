@@ -1,15 +1,14 @@
 ---
 title: Privacy Policy · 隐私政策
 description: 我们处理哪些个人信息、为什么、保存多久、你有哪些权利。
-sidebar_label: Privacy · 隐私政策
+sidebar_label: Privacy Policy
 slug: /legal/privacy
 ---
 
-# 隐私政策 · Privacy Policy
 
-更新日期：2026-11-25
 
-## 中文
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **处理者。** 本项目的个人信息处理者是 Westlake Drawer 的维护者（学生个人），
 不是西湖大学。联系方式见文末。
@@ -49,7 +48,8 @@ slug: /legal/privacy
 
 **变更。** 本政策更新后在本页公布并标注日期。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 Updated 2026-11-25.
 
@@ -97,3 +97,6 @@ discovery, notify affected people where we can reach them, and state the scope a
 remedy.
 
 **Changes.** Updates are published here with a date.
+
+</TabItem>
+</Tabs>

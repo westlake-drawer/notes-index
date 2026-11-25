@@ -1,13 +1,14 @@
 ---
 title: Security · 安全须知与事故响应
 description: 运行工具的风险、密钥处理、漏洞披露与事故响应。
-sidebar_label: Security · 安全须知
+sidebar_label: Security
 slug: /legal/security
 ---
 
-# 安全须知与事故响应 · Security
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **本站是静态站点。** 只提供文本与图片，不代替你执行代码、不设置分析 Cookie、
 不索取账号凭据。
@@ -32,7 +33,8 @@ slug: /legal/security
 
 **备份。** 依赖 GitHub 的仓库历史；组织不另行维护离线副本，重要内容建议贡献者本地保留。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **The site is static.** Text and images only; it runs no code for you, sets no
 analytics cookies, and asks for no credentials.
@@ -62,3 +64,6 @@ the [privacy policy](/legal/privacy); keep an incident record for 24 months.
 
 **Backups.** Repository history on GitHub is the backup; the organization keeps no
 separate offline copy, so contributors should keep local copies of important work.
+
+</TabItem>
+</Tabs>

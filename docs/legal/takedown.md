@@ -1,13 +1,14 @@
 ---
 title: Notice and counter-notice · 侵权通知与反通知
 description: 如何提交侵权通知、我们如何处理、被投诉方如何反通知。
-sidebar_label: Notice & Counter-notice · 侵权通知
+sidebar_label: Notices
 slug: /legal/takedown
 ---
 
-# 侵权通知与反通知 · Notice and counter-notice
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 本流程参考《信息网络传播权保护条例》的通知—删除规则，适用于本站页面与本组织仓库中的内容。
 
@@ -36,7 +37,8 @@ slug: /legal/takedown
 
 **六、说明。** 本流程不构成法律意见；涉及重大权利争议时，请咨询律师。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 Modelled on the notice-and-takedown rule of China's Regulations on the Protection of
 the Right to Network Dissemination of Information. It applies to site pages and to
@@ -69,3 +71,6 @@ future submissions restricted.
 accessible to maintainers only.
 
 **6. Note.** This process is not legal advice; for a serious dispute, consult a lawyer.
+
+</TabItem>
+</Tabs>

@@ -1,13 +1,14 @@
 ---
 title: Tool Listing Policy · 第三方工具收录政策
 description: 工具如何被收录、如何标注、什么情况下下架。
-sidebar_label: Tool Policy · 工具收录
+sidebar_label: Tool Policy
 slug: /legal/tool-policy
 ---
 
-# 第三方工具收录政策 · Tool Listing Policy
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **收录标准。** 工具须满足：源码公开可读；许可明确；有基本的维护记录（提交或发布历史）；
 用途与学习或科研相关；不存在已知的恶意行为。
@@ -30,7 +31,8 @@ slug: /legal/tool-policy
 **未来变化。** 若本组织将来提供安装包、在线执行环境或托管服务，须在提供前另行完成审查，
 并更新本页。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **Listing criteria.** Publicly readable source; a clear licence; some maintenance
 history; a study or research purpose; no known malicious behaviour.
@@ -56,3 +58,6 @@ a fresh review of the entry.
 **Future changes.** If the organization ever ships installers, an execution
 environment, or hosted services, a separate review must be completed first and this
 page updated.
+
+</TabItem>
+</Tabs>

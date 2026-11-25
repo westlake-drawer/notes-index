@@ -1,13 +1,14 @@
 ---
 title: Name and affiliation · 名称与非官方关联
 description: 校名、地图与标识的使用边界。
-sidebar_label: Name & Affiliation · 名称与关联
+sidebar_label: Name & Affiliation
 slug: /legal/brand
 ---
 
-# 名称与非官方关联 · Name and affiliation
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **非官方。** Westlake Drawer 由学生以个人身份运营，不是西湖大学的部门、学生会、附属机构
 或官方项目。本站的任何内容与活动均不代表学校立场。
@@ -25,7 +26,8 @@ slug: /legal/brand
 **对外材料。** 招募、宣传与赞助材料须与本页一致：说明项目由学生自发组织、
 与学校无隶属关系。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **Not official.** Westlake Drawer is run by students in a personal capacity. It is not
 a department, student union, affiliate, or official project of Westlake University.
@@ -47,3 +49,5 @@ require consent.
 **Public materials.** Recruitment, promotion, and sponsorship material must match this
 page: student-run, not affiliated with the university.
 
+</TabItem>
+</Tabs>

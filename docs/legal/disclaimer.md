@@ -1,13 +1,14 @@
 ---
 title: Disclaimer · 免责声明
 description: 本站的服务范围、担保排除与不可排除的责任。
-sidebar_label: Disclaimer · 免责声明
+sidebar_label: Disclaimer
 slug: /legal/disclaimer
 ---
 
-# 免责声明 · Disclaimer
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **服务范围。** 本站提供索引、说明与链接，不托管笔记原文，不提供课程、辅导、证明或
 任何校内服务。本站不代表西湖大学、任何院系、教师或实验室。
@@ -28,7 +29,8 @@ slug: /legal/disclaimer
 **你的义务。** 你有责任自行核实内容、遵守许可、遵守课程与学校规定，并在涉及重要决定时
 寻求专业意见。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **Scope.** The site provides an index, descriptions, and links. It does not host the
 notes, run courses, offer tutoring or certificates, or provide university services.
@@ -54,3 +56,6 @@ negligence, personal injury, and other mandatory liability.
 **Your obligations.** You are responsible for verifying content, respecting licences,
 following your course's and university's rules, and seeking professional advice for
 decisions that matter.
+
+</TabItem>
+</Tabs>

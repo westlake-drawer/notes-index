@@ -1,13 +1,14 @@
 ---
 title: Governance · 组织章程与治理
 description: 组织性质、角色、决策、退出与解散规则。
-sidebar_label: Governance · 组织章程
+sidebar_label: Governance
 slug: /legal/governance
 ---
 
-# 组织章程与治理 · Governance
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 **性质。** Westlake Drawer 是非正式的学生协作团体，不是独立法人，不代表西湖大学，
 不对外签署有约束力的合同，也不以本组织名义募集资金。一切参与均为个人身份。
@@ -44,7 +45,8 @@ slug: /legal/governance
 **争议。** 先按 [用户使用条款](/legal/terms) 的争议解决条款协商；内部争议由维护者多数裁决，
 并保留书面记录。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 **Nature.** Westlake Drawer is an informal student collaboration. It is not a legal
 entity, does not represent Westlake University, does not sign binding contracts, and
@@ -77,3 +79,6 @@ remains; otherwise the project recruits a successor or winds down.
 
 **Disputes.** Negotiation first under the [terms of use](/legal/terms); internal
 disputes by majority of maintainers, with a written record.
+
+</TabItem>
+</Tabs>

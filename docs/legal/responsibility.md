@@ -1,13 +1,14 @@
 ---
 title: Responsibility · 责任分配
 description: 内部责任分工，以及它与法律外部责任的关系。
-sidebar_label: Responsibility · 责任分配
+sidebar_label: Responsibility
 slug: /legal/responsibility
 ---
 
-# 责任分配 · Responsibility
 
-## 中文
+
+<Tabs>
+<TabItem value="zh" label="中文" default>
 
 | 角色 | 负责 | 不负责 |
 | :--- | :--- | :--- |
@@ -33,7 +34,8 @@ slug: /legal/responsibility
 **证据保全。** 涉及争议时，保存相关提交记录、通知与决定；保存期限见
 [隐私政策](/legal/privacy)。
 
-## English
+</TabItem>
+<TabItem value="en" label="English">
 
 | Party | Responsible for | Not responsible for |
 | :--- | :--- | :--- |
@@ -63,3 +65,6 @@ recover from the party at fault.
 
 **Evidence.** For disputes, keep the relevant commits, notices, and decisions;
 retention follows the [privacy policy](/legal/privacy).
+
+</TabItem>
+</Tabs>
