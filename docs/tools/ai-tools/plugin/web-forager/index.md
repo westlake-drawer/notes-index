@@ -16,3 +16,5 @@ The tool refuses targets it should not touch, and every record says what was ski
 ---
 
 > **Notice.** A community plugin by Jiaming Shi, not affiliated with any site it reads or with Westlake University. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).
+>
+> 社区插件，与它所访问的网站及西湖大学无关；安装后以你的用户权限运行，使用前请阅读源码。

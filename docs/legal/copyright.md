@@ -1,11 +1,34 @@
 ---
-title: Copyright and licensing
+title: Copyright and licensing · 版权与许可
 description: Who owns the notes, how the index is licensed, and how to report a problem.
-sidebar_label: Copyright and licensing
+sidebar_label: Copyright · 版权与许可
 slug: /legal/copyright
 ---
 
-# Copyright and licensing
+# 版权与许可 · Copyright and licensing
+
+## 中文
+
+**笔记版权归作者。** 讲义、习题、图表与编译好的 PDF，版权属于撰写它们的学生；
+若内容改编自课程材料，相关权利仍归教师或原始权利人。每个仓库在各自的 `LICENSE`
+里声明许可——多数是 MIT，也有不是的。二次使用前请先读源仓库的 `LICENSE`。
+
+**索引与笔记是两回事。** 本站的文字、导航与版式存放在
+[notes-index](https://github.com/westlake-drawer/notes-index)，以 MIT 许可发布。
+该许可只覆盖索引，不覆盖它所链接的笔记。
+
+**课程材料。** 若某份笔记转载了课件、插图或原文，相关权利仍归其所有者。
+贡献者应链接官方来源而不是复制，并在被要求时移除。
+
+**报告问题。** 若内容侵犯你的权利、涉及隐私或不应公开，请在
+[community](https://github.com/westlake-drawer/community) 提 issue，或通过组织联系维护者，
+并附上链接与问题说明。审核期间我们会先移除或限制该条目。
+不要在公开 issue 中写入个人或机密信息。
+
+**下架。** 权利人提出要求、内容涉及隐私或法律要求时，维护者可随时移除或下架
+任何页面或链接，无需事先通知。
+
+## English
 
 **Notes belong to their authors.** Lecture notes, problem sets, figures, and
 compiled PDFs are the copyright of the students who wrote them and, where

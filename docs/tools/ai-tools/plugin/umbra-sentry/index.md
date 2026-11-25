@@ -16,3 +16,5 @@ It is built as an agent plugin: defense here is not obfuscation but semantic dec
 ---
 
 > **Notice.** A community plugin by Jiaming Shi, not affiliated with Westlake University. Use it only on artifacts you own or are authorized to protect. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).
+>
+> 社区插件，与西湖大学无关；仅可用于你拥有或获授权保护的作品。见[安全须知](/legal/security)。

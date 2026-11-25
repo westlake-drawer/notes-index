@@ -21,3 +21,5 @@ Chelate Shell bridges this gap with a microkernel-based router. By reading each 
 ---
 
 > **Notice.** A community plugin by Jiaming Shi, not affiliated with Westlake University. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).
+>
+> 社区插件，与西湖大学无关；安装后以你的用户权限运行，使用前请阅读源码。
