@@ -12,3 +12,7 @@ slug: /tools/dsh-token-steward
 [**dsh-token-steward**](https://github.com/JiamingShi-JsPhys/dsh-token-steward) is a model-matrix router for DeepSeek Harness. Official APIs, free mirrors, self-hosted relays and expensive top-tier models can sit in one pool: the plugin runs an OpenAI-compatible gateway on `127.0.0.1`, and pointing `llm-pi-ai`'s `baseURL` at it is the only change a session needs.
 
 Routing, downgrade, health breakers, exact caching and metering all happen inside the gateway. The matrix, provider keys and per-model pricing are maintained from the DSH settings panel, or changed through conversation.
+
+---
+
+> **Notice.** A community plugin by Jiaming Shi, not affiliated with DeepSeek, DeepSeek Harness, or Westlake University. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).

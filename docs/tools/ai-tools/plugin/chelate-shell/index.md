@@ -17,3 +17,7 @@ It doesn't replace individual AI skills; instead, it acts as a **project manager
 The agent ecosystem has plenty of excellent isolated skills—validating formulas, tracking videos, or organizing files. However, when facing complex research workflows, agents often struggle with the orchestration gap: **Which skill to call? In what order? Where should the outputs go?** 
 
 Chelate Shell bridges this gap with a microkernel-based router. By reading each skill's `manifest.json`, it automatically builds a standardized pipeline, ensuring your research remains reproducible, auditable, and hallucination-free.
+
+---
+
+> **Notice.** A community plugin by Jiaming Shi, not affiliated with Westlake University. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).
