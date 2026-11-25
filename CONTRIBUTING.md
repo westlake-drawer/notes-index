@@ -32,6 +32,8 @@ index needs. Never submit instructor material, exam answers, or confidential res
   Submit corrections to the lecture notes in the relevant source repository.
 - Include only public course materials. Do not publish private repositories,
   credentials, or member information.
+- This index is for understanding a course, not for exam drilling. Do not submit
+  problem sets, solution keys, or past exam papers.
 - Preserve existing page URLs when reorganizing files. Use an explicit `slug`
   when needed, and update any affected internal links.
 

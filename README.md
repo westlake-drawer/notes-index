@@ -59,3 +59,8 @@ reference, including custom tabs and shareable URL parameters.
 Course details are maintained on the website rather than duplicated here.
 For theme, React components, synchronization, or deployment changes, contribute
 to the application repository instead.
+
+## 范围 / Scope
+
+本索引收录课程笔记与学习工具，用于理解课程内容。**不收录题集、答案册与往年试题**，
+也不以应试为目标。
