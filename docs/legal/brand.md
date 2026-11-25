@@ -25,8 +25,6 @@ slug: /legal/brand
 **对外材料。** 招募、宣传与赞助材料须与本页一致：说明项目由学生自发组织、
 与学校无隶属关系。
 
-**待办。** 名称与标识的商标检索尚未完成，见[开放事项](/legal/open-items)。
-
 ## English
 
 **Not official.** Westlake Drawer is run by students in a personal capacity. It is not
@@ -49,5 +47,3 @@ require consent.
 **Public materials.** Recruitment, promotion, and sponsorship material must match this
 page: student-run, not affiliated with the university.
 
-**Pending.** A trademark search for the name and marks has not been done — see
-[Open items](/legal/open-items).

@@ -21,7 +21,6 @@ slug: /legal/security
 
 **组织侧的安全措施。** 组织要求 owner 启用双因素认证；仓库默认最小权限；
 关键分支建议开启保护与必需审核；发布流程使用最小权限的 GitHub Actions。
-已知缺口记录在[开放事项](/legal/open-items)。
 
 **漏洞披露。** 请私下报告：在受影响的仓库使用 GitHub 的 *Report a vulnerability*，
 或通过组织联系维护者。我们会在 72 小时内确认收到，并在修复后公开说明（不披露复现细节）。
@@ -49,7 +48,6 @@ the system credential store, never in a committed file.
 **Organization-side measures.** Owners are required to enable two-factor
 authentication; repositories use least privilege; critical branches should be
 protected with required review; deployment uses minimal-permission GitHub Actions.
-Known gaps are listed in [Open items](/legal/open-items).
 
 **Vulnerability disclosure.** Report privately via GitHub's *Report a vulnerability*
 on the affected repository, or contact a maintainer through the organization. We
