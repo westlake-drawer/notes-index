@@ -1,10 +1,12 @@
 ---
 title: Explore
-description: Find notes and tools by course, subject, or keyword.
-sidebar_label: Explore
+description: Search the index, get a path, or hand the index to your own agent.
+sidebar_label: Overview
 slug: /explore
 ---
 
 # Explore
 
 <Explore />
+
+<AutoDocIndex />
