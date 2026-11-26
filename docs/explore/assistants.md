@@ -41,27 +41,9 @@ git clone https://github.com/westlake-drawer/westlake-drawer.github.io.git
 cd westlake-drawer.github.io
 ```
 
-Register it with your client. Claude Code:
+Then register the server with your agent:
 
-```bash
-claude mcp add westlake-drawer -- node "$(pwd)/mcp/index.js"
-```
-
-Cursor or another client using JSON config:
-
-```json
-{
-  "mcpServers": {
-    "westlake-drawer": {
-      "command": "node",
-      "args": ["/absolute/path/to/mcp/index.js"]
-    }
-  }
-}
-```
-
-Then ask your agent to use it: *"Use westlake-drawer to find notes for a maths foundation
-and give me a path."*
+<McpSetup />
 
 ### Keep the data current
 
