@@ -1,0 +1,15 @@
+{
+  "/notes/math/calculus/": "单变量与多变量微积分，含 LaTeX 源文件与 PDF。",
+  "/notes/math/fundamental-algebra-analysis/": "代数与分析基础（上下两册）讲义与课程材料。",
+  "/notes/chemistry/general-chemistry/": "化学热力学、电化学与化学动力学。",
+  "/notes/math/linear-algebra/": "向量空间、矩阵、线性映射、特征值与 Jordan 标准形。",
+  "/notes/math/measure-theory-real-analysis/": "测度论与实分析，按章节组织的 LaTeX 源文件。",
+  "/notes/math/ordinary-differential-equations/": "常微分方程，按章节组织的 LaTeX 源文件。",
+  "/notes/math/partial-differential-equations/": "流体力学与一维热方程，含源文件与 PDF。",
+  "/notes/math/probability-theory/": "概率论，按章节组织的 LaTeX 源文件。",
+  "/notes/physics/quantum-mechanics/": "量子力学个人笔记：公设、角动量、近似方法、路径积分与散射。",
+  "/tools/3d-fabric/": "3D 建模与制造的打印质量门，附 30 个 Blender 技能。",
+  "/tools/chelate-shell/": "把零散的 Agent 技能编排成可复现科研流程的编排器。",
+  "/tools/web-forager/": "礼貌地读取公开网页，为 Agent 返回一条干净的记录。",
+  "/tools/vesper-board/": "桌面宠物，显示 Canvas 作业与 AMS 课表。"
+}
