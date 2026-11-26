@@ -1,0 +1,34 @@
+{
+  "math": {
+    "label": "数学与应用数学",
+    "description": "微积分、代数、分析与概率的课程笔记。"
+  },
+  "physics": {
+    "label": "物理学",
+    "description": "力学、电磁学、量子力学及相关课程。"
+  },
+  "chemistry": {
+    "label": "化学",
+    "description": "普通化学、有机化学、物理化学与无机化学的课程笔记。"
+  },
+  "biology": {
+    "label": "生物科学",
+    "description": "细胞生物学、遗传学、生物化学及相关课程。"
+  },
+  "materials-science": {
+    "label": "材料科学与工程",
+    "description": "材料的结构、表征与加工。"
+  },
+  "electronic-information": {
+    "label": "电子信息工程",
+    "description": "电路、信号、电子学与通信的课程笔记。"
+  },
+  "artificial-intelligence": {
+    "label": "人工智能",
+    "description": "机器学习、优化与 AI 系统的课程笔记。"
+  },
+  "clinical-medicine": {
+    "label": "临床医学",
+    "description": "医学方向的基础与临床课程。"
+  }
+}
