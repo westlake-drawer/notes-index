@@ -9,6 +9,14 @@ slug: /explore
 
 <Explore />
 
+---
+
+**Examples** · [Calculus](/notes/math/calculus/) ·
+[Measure Theory and Real Analysis](/notes/math/measure-theory-real-analysis/) ·
+[Quantum Mechanics](/notes/physics/quantum-mechanics/) ·
+[Chelate Shell](/tools/chelate-shell/) ·
+[web-forager](/tools/web-forager/)
+
 ## Looking for a route?
 
 Describe a goal and get an ordered set of resources — which to read first and why.
