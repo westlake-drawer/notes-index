@@ -23,7 +23,7 @@ repositoryTabs:
 
 # Fundamental Algebra and Analysis
 
-<div className="repo-meta"><span>Mathematics</span><span>TeX</span><span>Fall 2025 - Spring 2026</span><span>Source archive</span></div>
+<ResourceFacts />
 
 An archive of the lecture sources for Fundamental Algebra and Analysis, including Parts I and II.
 

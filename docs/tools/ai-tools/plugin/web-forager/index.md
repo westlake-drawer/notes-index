@@ -7,7 +7,7 @@ slug: /tools/web-forager
 
 # web-forager
 
-<div className="repo-meta"><span>Plugin</span><span>Python</span><span>v1.3.2</span><span>Web</span><span>MIT</span></div>
+<ResourceFacts />
 
 [**web-forager**](https://github.com/JiamingShi-JsPhys/web-forager) reads the public web politely and hands an agent a single clean record. Search, fetch, extract and browse share one engine: discovery uses 360, Bing, Sogou and Sogou WeChat; reading covers HTML, PDF, Office, EPUB, CSV, feeds and sitemaps; and a real browser handles pages that need scripts or a login.
 

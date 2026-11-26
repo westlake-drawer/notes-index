@@ -7,7 +7,7 @@ slug: /notes/math/linear-algebra
 
 # Linear Algebra
 
-<div className="repo-meta"><span>Mathematics</span><span>TeX</span><span>Fall 2025 - Spring 2026</span></div>
+<ResourceFacts />
 
 Lecture notes for Linear Algebra Track A, covering both semesters. LaTeX sources and PDFs are available.
 

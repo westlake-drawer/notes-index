@@ -7,7 +7,7 @@ slug: /notes/math/ordinary-differential-equations
 
 # Ordinary Differential Equations
 
-<div className="repo-meta"><span>Mathematics</span><span>TeX</span><span>Chapter-based notes</span></div>
+<ResourceFacts />
 
 Course notes for Ordinary Differential Equations, with LaTeX sources organized by chapter.
 

@@ -7,7 +7,7 @@ slug: /tools/3d-fabric
 
 # 3D Fabric
 
-<div className="repo-meta"><span>Plugin</span><span>Python</span><span>v1.1.3</span><span>3D Printing</span><span>MIT</span></div>
+<ResourceFacts />
 
 [**3d-fabric**](https://github.com/JiamingShi-JsPhys/3d-fabric) is a print-quality gate for 3D modelling and manufacturing workflows. Every path a mesh takes — a request written in natural language and built through the local SolidCraft CLI, a design someone sent you, an STL from a scanner, a mesh out of Blender — ends at the same gate: watertightness, winding, non-manifold edges, and each closed shell checked on its own, so an inside-out part cannot hide behind a correct one.
 

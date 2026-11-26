@@ -7,7 +7,7 @@ slug: /notes/chemistry/general-chemistry
 
 # General Chemistry
 
-<div className="repo-meta"><span>Chemistry</span><span>Chapter-based notes</span><span>In progress</span></div>
+<ResourceFacts />
 
 Course notes for General Chemistry. The first three chapters are complete.
 

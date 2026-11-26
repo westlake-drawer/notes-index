@@ -7,7 +7,7 @@ slug: /notes/math/partial-differential-equations
 
 # Partial Differential Equations
 
-<div className="repo-meta"><span>Mathematics</span><span>TeX</span><span>Fall 2026</span><span>In progress</span></div>
+<ResourceFacts />
 
 Course notes for Partial Differential Equations, with LaTeX sources and a compiled PDF.
 

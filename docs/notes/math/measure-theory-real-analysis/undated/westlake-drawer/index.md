@@ -7,7 +7,7 @@ slug: /notes/math/measure-theory-real-analysis
 
 # Measure Theory and Real Analysis
 
-<div className="repo-meta"><span>Mathematics</span><span>TeX</span><span>Chapter-based notes</span></div>
+<ResourceFacts />
 
 Course notes for Measure Theory and Real Analysis, with LaTeX sources organized by chapter.
 

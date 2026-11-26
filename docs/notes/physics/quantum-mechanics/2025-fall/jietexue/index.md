@@ -14,7 +14,7 @@ repositoryTabs:
 
 # Quantum Mechanics
 
-<div className="repo-meta"><span>Physics</span><span>LaTeX</span><span>Fall 2025</span><span>Personal study notes</span></div>
+<ResourceFacts />
 
 Personal study notes by **Jiete XUE** for the Fall 2025 Quantum Mechanics
 course at Westlake University, taught by **Congjun Wu**.

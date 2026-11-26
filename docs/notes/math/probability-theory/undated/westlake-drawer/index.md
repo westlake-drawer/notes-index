@@ -7,7 +7,7 @@ slug: /notes/math/probability-theory
 
 # Probability Theory
 
-<div className="repo-meta"><span>Mathematics</span><span>TeX</span><span>Chapter-based notes</span></div>
+<ResourceFacts />
 
 Course notes for Probability Theory, with LaTeX sources organized by chapter.
 
