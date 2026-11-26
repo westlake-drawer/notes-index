@@ -5,7 +5,6 @@ sidebar_label: Vesper Board
 slug: /tools/vesper-board
 ---
 
-# Vesper Board · 晚星看板
 
 <ResourceFacts />
 
@@ -15,4 +14,3 @@ slug: /tools/vesper-board
 
 > **Notice.** A community app by Jiaming Shi, not affiliated with Canvas, the AMS, or Westlake University. Account credentials you enter stay on your machine. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).
 >
-> 社区应用，与 Canvas、AMS 及西湖大学无关；你输入的账号凭据只保存在本机。见[安全须知](/legal/security)。

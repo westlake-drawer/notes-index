@@ -7,7 +7,6 @@ slug: /notes/electronic-information
 
 # Electronic Information
 
-<sub>Electronic Information Engineering · 电子信息工程</sub>
 
 No course notes are indexed under this major yet. If you have notes for a course in this
 area, contributions are welcome — see the

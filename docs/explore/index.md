@@ -1,6 +1,6 @@
 ---
 title: Explore
-description: 按课程、学科与关键词查找笔记与工具。
+description: Find notes and tools by course, subject, or keyword.
 sidebar_label: Explore
 slug: /explore
 ---

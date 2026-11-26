@@ -7,7 +7,6 @@ slug: /notes/clinical-medicine
 
 # Clinical Medicine
 
-<sub>Clinical Medicine · 临床医学</sub>
 
 No course notes are indexed under this major yet. If you have notes for a course in this
 area, contributions are welcome — see the

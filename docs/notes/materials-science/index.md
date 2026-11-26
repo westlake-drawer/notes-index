@@ -7,7 +7,6 @@ slug: /notes/materials-science
 
 # Materials Science
 
-<sub>Materials Science and Engineering · 材料科学与工程</sub>
 
 No course notes are indexed under this major yet. If you have notes for a course in this
 area, contributions are welcome — see the

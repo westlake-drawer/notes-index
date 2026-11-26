@@ -7,7 +7,6 @@ slug: /notes/biology
 
 # Biological Sciences
 
-<sub>Biological Sciences · 生物科学</sub>
 
 No course notes are indexed under this major yet. If you have notes for a course in this
 area, contributions are welcome — see the

@@ -17,4 +17,3 @@ Seven CAD actions write the same gate record and use the same exit codes. Thirty
 
 > **Notice.** A community plugin by Jiaming Shi, not affiliated with the SolidCraft project or Westlake University. It runs with your own user privileges once installed — review the code before use. See [Security](/legal/security).
 >
-> 社区插件，与 SolidCraft 项目及西湖大学无关；安装后以你的用户权限运行，使用前请阅读源码。
