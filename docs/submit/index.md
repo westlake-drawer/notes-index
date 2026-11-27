@@ -7,13 +7,13 @@ slug: /submit
 
 # <Bi en="Submit a resource" zh="提交资源" />
 
-<Bi en="This site is an index. It links to repositories that other people maintain; it does not host files. Submitting means asking us to **list your repository**, not to upload it." zh="本站是索引。它链接到由他人维护的仓库，本身不托管文件。提交的意思是**请我们收录你的仓库**，而不是上传文件。" />
+<Bi en="This site is an index. It links to repositories that other people maintain; it does not host files. Submitting means asking us to **list your repository**, not to upload it." zh="本站是索引。它链接到由他人维护的仓库，本身不托管文件。提交的意思是请我们收录你的仓库，而不是上传文件。" />
 
 <SubmitButtons />
 
 ## <Bi en="What we list" zh="我们收录什么" />
 
-- <Bi en="Course notes for a course at Westlake University, kept in a **public** GitHub repository." zh="西湖大学某门课程的笔记，放在**公开**的 GitHub 仓库里。" />
+- <Bi en="Course notes for a course at Westlake University, kept in a public GitHub repository." zh="西湖大学某门课程的笔记，放在公开的 GitHub 仓库里。" />
 - <Bi en="A tool you maintain, or one whose author has agreed to be listed." zh="你自己维护的工具，或作者同意被收录的工具。" />
 
 ## <Bi en="What we do not list" zh="我们不收录什么" />
