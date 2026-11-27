@@ -11,5 +11,6 @@
   "/tools/3d-fabric/": "3D 建模与制造的打印质量门，附 30 个 Blender 技能。",
   "/tools/chelate-shell/": "把零散的 Agent 技能编排成可复现科研流程的编排器。",
   "/tools/web-forager/": "礼貌地读取公开网页，为 Agent 返回一条干净的记录。",
-  "/tools/vesper-board/": "桌面宠物，显示 Canvas 作业与 AMS 课表。"
+  "/tools/vesper-board/": "桌面宠物，显示 Canvas 作业与 AMS 课表。",
+  "/tools/wrasse/": "面向 AI 生成代码的离线安全审计：规则确定、不联网、不需要模型与密钥。"
 }
