@@ -43,4 +43,4 @@ slug: /submit
 
 ## <Bi en="Rights" zh="权利" />
 
-<Bi en="By submitting you confirm you have the right to publish the content, and you accept the [contributor licence](/legal/cla). Notes that reproduce instructor material without permission will be removed on request — see [takedown](/legal/takedown)." zh="提交即表示你确认有权发布这些内容，并接受[贡献者许可](/legal/cla)。未经许可转载教师材料的笔记会在收到请求后移除，见[侵权处理](/legal/takedown)。" />
+<Bi en="By submitting you confirm you have the right to publish the content, and you accept the" zh="提交即表示你确认有权发布这些内容，并接受" /> [<Bi en="contributor licence" zh="贡献者许可" />](/legal/cla)<Bi en=". Notes that reproduce instructor material without permission will be removed on request — see" zh="。未经许可转载教师材料的笔记会在收到请求后移除，见" /> [<Bi en="takedown" zh="侵权处理" />](/legal/takedown).

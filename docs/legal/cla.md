@@ -7,7 +7,7 @@ slug: /legal/cla
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 向本组织的任何仓库提交 Pull Request、Issue 中的内容或直接推送，即表示你同意本协议。
@@ -62,4 +62,4 @@ granted to others, and archival records are unaffected. Use the
 specific document prevails.
 
 </TabItem>
-</Tabs>
+</LangTabs>

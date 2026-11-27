@@ -7,7 +7,7 @@ slug: /legal/tool-policy
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **收录标准。** 工具须满足：源码公开可读；许可明确；有基本的维护记录（提交或发布历史）；
@@ -60,4 +60,4 @@ environment, or hosted services, a separate review must be completed first and t
 page updated.
 
 </TabItem>
-</Tabs>
+</LangTabs>

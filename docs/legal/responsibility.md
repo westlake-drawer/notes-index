@@ -7,7 +7,7 @@ slug: /legal/responsibility
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 | 角色 | 负责 | 不负责 |
@@ -67,4 +67,4 @@ recover from the party at fault.
 retention follows the [privacy policy](/legal/privacy).
 
 </TabItem>
-</Tabs>
+</LangTabs>

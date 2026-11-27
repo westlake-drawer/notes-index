@@ -7,7 +7,7 @@ slug: /legal/security
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **本站是静态站点。** 只提供文本与图片，不代替你执行代码、不设置分析 Cookie、
@@ -66,4 +66,4 @@ the [privacy policy](/legal/privacy); keep an incident record for 24 months.
 separate offline copy, so contributors should keep local copies of important work.
 
 </TabItem>
-</Tabs>
+</LangTabs>

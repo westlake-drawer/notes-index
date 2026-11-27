@@ -7,7 +7,7 @@ slug: /legal/terms
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 访问或使用本站，即表示你接受本条款。若不接受，请停止使用。
@@ -80,4 +80,4 @@ they go to the competent people's court where the maintainers are located.
 accepts the new version.
 
 </TabItem>
-</Tabs>
+</LangTabs>

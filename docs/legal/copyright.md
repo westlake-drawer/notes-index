@@ -7,7 +7,7 @@ slug: /legal/copyright
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **笔记版权归作者。** 讲义、习题、图表与编译好的 PDF，版权属于撰写它们的学生；
@@ -88,4 +88,4 @@ Maintainers may remove content on a valid notice and restrict access while a rep
 is reviewed.
 
 </TabItem>
-</Tabs>
+</LangTabs>

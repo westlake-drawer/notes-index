@@ -7,7 +7,7 @@ slug: /legal/academic-integrity
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **笔记是学习辅助材料。** 它们帮助你理解课程，不是提交作业的素材。能否在课程作业中使用，
@@ -60,4 +60,4 @@ restricted contribution rights, or removal from the organization. For serious or
 repeated violations, maintainers may publish the outcome without personal data.
 
 </TabItem>
-</Tabs>
+</LangTabs>

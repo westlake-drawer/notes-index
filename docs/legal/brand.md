@@ -7,7 +7,7 @@ slug: /legal/brand
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **非官方。** Westlake Drawer 由学生以个人身份运营，不是西湖大学的部门、学生会、附属机构
@@ -50,4 +50,4 @@ require consent.
 page: student-run, not affiliated with the university.
 
 </TabItem>
-</Tabs>
+</LangTabs>

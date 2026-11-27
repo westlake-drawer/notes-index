@@ -7,7 +7,7 @@ slug: /legal/takedown
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 本流程参考《信息网络传播权保护条例》的通知—删除规则，适用于本站页面与本组织仓库中的内容。
@@ -73,4 +73,4 @@ accessible to maintainers only.
 **6. Note.** This process is not legal advice; for a serious dispute, consult a lawyer.
 
 </TabItem>
-</Tabs>
+</LangTabs>

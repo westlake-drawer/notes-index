@@ -7,7 +7,7 @@ slug: /legal/privacy
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **处理者。** 本项目的个人信息处理者是 Westlake Drawer 的维护者（学生个人），
@@ -99,4 +99,4 @@ remedy.
 **Changes.** Updates are published here with a date.
 
 </TabItem>
-</Tabs>
+</LangTabs>

@@ -7,7 +7,7 @@ slug: /legal/disclaimer
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **服务范围。** 本站提供索引、说明与链接，不托管笔记原文，不提供课程、辅导、证明或
@@ -58,4 +58,4 @@ following your course's and university's rules, and seeking professional advice 
 decisions that matter.
 
 </TabItem>
-</Tabs>
+</LangTabs>

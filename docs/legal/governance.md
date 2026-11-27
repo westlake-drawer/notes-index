@@ -7,7 +7,7 @@ slug: /legal/governance
 
 
 
-<Tabs>
+<LangTabs>
 <TabItem value="zh" label="中文" default>
 
 **性质。** Westlake Drawer 是非正式的学生协作团体，不是独立法人，不代表西湖大学，
@@ -81,4 +81,4 @@ remains; otherwise the project recruits a successor or winds down.
 disputes by majority of maintainers, with a written record.
 
 </TabItem>
-</Tabs>
+</LangTabs>
