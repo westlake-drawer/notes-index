@@ -21,6 +21,6 @@ deserialisation, SQL built from values, and checks that only run inside one role
 
 ---
 
-> **Notice.** A community tool by Jiaming Shi, not affiliated with any model provider or
+> **Notice.** A community app by Jiaming Shi, not affiliated with any model provider or
 > Westlake University. It runs with your own user privileges once installed — review the
 > code before use. See [Security](/legal/security).
